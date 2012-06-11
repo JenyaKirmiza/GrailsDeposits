@@ -1,0 +1,16 @@
+Dec 12, 2011 2:35:53 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-localhost%2F127.0.0.1-8080
+Dec 12, 2011 2:35:53 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Tomcat
+Dec 12, 2011 2:35:53 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0-snapshot
+Dec 12, 2011 2:36:05 PM org.apache.catalina.startup.ContextConfig defaultWebConfig
+INFO: No default web.xml
+Dec 12, 2011 2:36:06 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jsp/jstl/core is already defined
+Dec 12, 2011 2:36:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://java.sun.com/jsp/jstl/fmt is already defined
+Dec 12, 2011 2:36:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://www.springframework.org/tags is already defined
+Dec 12, 2011 2:36:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
