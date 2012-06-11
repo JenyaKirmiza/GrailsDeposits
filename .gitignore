@@ -1,0 +1,9 @@
+target
+bin
+reports
+.classpath
+.project
+.settings
+.pmd
+*.log
+*.lck
